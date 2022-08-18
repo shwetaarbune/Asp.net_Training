@@ -1,0 +1,24 @@
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Entities.Base/bin/Debug/net6.0/Application.Entities.Base.deps.json
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Entities.Base/bin/Debug/net6.0/Application.Entities.Base.dll
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Entities.Base/bin/Debug/net6.0/Application.Entities.Base.pdb
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Entities.Base/obj/Debug/net6.0/Application.Entities.Base.csproj.AssemblyReference.cache
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Entities.Base/obj/Debug/net6.0/Application.Entities.Base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Entities.Base/obj/Debug/net6.0/Application.Entities.Base.AssemblyInfoInputs.cache
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Entities.Base/obj/Debug/net6.0/Application.Entities.Base.AssemblyInfo.cs
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Entities.Base/obj/Debug/net6.0/Application.Entities.Base.csproj.CoreCompileInputs.cache
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Entities.Base/obj/Debug/net6.0/Application.Entities.Base.dll
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Entities.Base/obj/Debug/net6.0/refint/Application.Entities.Base.dll
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Entities.Base/obj/Debug/net6.0/Application.Entities.Base.pdb
+/Users/mahesh/Training/mbaspnetcore/mbaspnetcore/mbaspnetcore6/Application.Entities.Base/obj/Debug/net6.0/ref/Application.Entities.Base.dll
+C:\Users\Shweta.Arbune\Downloads\mbaspnetcore-main (1)\mbaspnetcore-main\mbaspnetcore6\Application.Entities.Base\bin\Debug\net6.0\Application.Entities.Base.deps.json
+C:\Users\Shweta.Arbune\Downloads\mbaspnetcore-main (1)\mbaspnetcore-main\mbaspnetcore6\Application.Entities.Base\bin\Debug\net6.0\Application.Entities.Base.dll
+C:\Users\Shweta.Arbune\Downloads\mbaspnetcore-main (1)\mbaspnetcore-main\mbaspnetcore6\Application.Entities.Base\bin\Debug\net6.0\Application.Entities.Base.pdb
+C:\Users\Shweta.Arbune\Downloads\mbaspnetcore-main (1)\mbaspnetcore-main\mbaspnetcore6\Application.Entities.Base\obj\Debug\net6.0\Application.Entities.Base.csproj.AssemblyReference.cache
+C:\Users\Shweta.Arbune\Downloads\mbaspnetcore-main (1)\mbaspnetcore-main\mbaspnetcore6\Application.Entities.Base\obj\Debug\net6.0\Application.Entities.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shweta.Arbune\Downloads\mbaspnetcore-main (1)\mbaspnetcore-main\mbaspnetcore6\Application.Entities.Base\obj\Debug\net6.0\Application.Entities.Base.AssemblyInfoInputs.cache
+C:\Users\Shweta.Arbune\Downloads\mbaspnetcore-main (1)\mbaspnetcore-main\mbaspnetcore6\Application.Entities.Base\obj\Debug\net6.0\Application.Entities.Base.AssemblyInfo.cs
+C:\Users\Shweta.Arbune\Downloads\mbaspnetcore-main (1)\mbaspnetcore-main\mbaspnetcore6\Application.Entities.Base\obj\Debug\net6.0\Application.Entities.Base.csproj.CoreCompileInputs.cache
+C:\Users\Shweta.Arbune\Downloads\mbaspnetcore-main (1)\mbaspnetcore-main\mbaspnetcore6\Application.Entities.Base\obj\Debug\net6.0\Application.Entities.Base.dll
+C:\Users\Shweta.Arbune\Downloads\mbaspnetcore-main (1)\mbaspnetcore-main\mbaspnetcore6\Application.Entities.Base\obj\Debug\net6.0\refint\Application.Entities.Base.dll
+C:\Users\Shweta.Arbune\Downloads\mbaspnetcore-main (1)\mbaspnetcore-main\mbaspnetcore6\Application.Entities.Base\obj\Debug\net6.0\Application.Entities.Base.pdb
+C:\Users\Shweta.Arbune\Downloads\mbaspnetcore-main (1)\mbaspnetcore-main\mbaspnetcore6\Application.Entities.Base\obj\Debug\net6.0\ref\Application.Entities.Base.dll
