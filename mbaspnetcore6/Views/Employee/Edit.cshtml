@@ -1,0 +1,39 @@
+﻿@model Employee
+<h1>
+   Edit Employee
+</h1>
+
+<div class="container">
+    <!--POST the Current Form to the Create() method in Controller which is applied with HttpPost attribute-->
+    <form asp-action="Edit">
+        <div class="form-group">
+            <label>EmpNo</label>
+            <!--Binding HTML inout element with the 'DeptNo' property from the Model class-->
+            <input type="text" asp-for="EmpNo" class="form-control" readonly/>
+        </div>
+        <div class="form-group">
+            <label>EmpName</label>
+            <input type="text" asp-for="EmpName" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label>Designation</label>
+            <input type="text" asp-for="Designation" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label>Salary</label>
+            <input type="text" asp-for="Salary" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label>DeptNo</label>
+            <input type="text" asp-for="DeptNo" class="form-control" />
+        </div>
+        <div class="form-group">
+           <input type="submit" value="Save" class="btn btn-success"/>
+        </div>
+    </form>
+
+</div>
+<div class="container">
+    <!--Go to Index Actio  Method-->
+    <a asp-action="Index">Back to List</a>
+</div>
